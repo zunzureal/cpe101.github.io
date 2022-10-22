@@ -33,7 +33,7 @@
 	<li>Earned : <b class="earnedDisplay">0</b></li>
 	<li>Spent : <b class="spentDisplay">0</b></li>
 	<li>Clicked : <b class="clickedDisplay">0</b></li> -->
-	<script src="base641.js"></script>
-	<script src="game1.js"></script>
+	<script src="base64.js"></script>
+	<script src="game.js"></script>
 </body>
 </html>
